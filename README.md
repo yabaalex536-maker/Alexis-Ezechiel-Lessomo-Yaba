@@ -28,5 +28,7 @@ Construire des applications utiles, évolutives et sécurisées, tout en continu
 Me contacter
 
 📧 Email : yabaalex536@gmail.com 
+
 🌐 Portfolio : https://yabaalex536-maker.github.io/Alexis-Ezechiel-Lessomo-Yaba
+
 💼 LinkedIn / GitHub : yabaalex536-make
