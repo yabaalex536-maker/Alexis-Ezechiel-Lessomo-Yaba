@@ -1,8 +1,10 @@
 Alexis Ezechiel Lessomo Yaba
 
-.Étudiant en CDA – Concepteur Développeur d’Applications
-.Passionné par le développement logiciel, le web et les nouvelles technologies
-.En constante montée en compétences pour concevoir des applications performantes, modernes et utiles
+Étudiant en CDA – Concepteur Développeur d’Applications
+
+Passionné par le développement logiciel, le web et les nouvelles technologies
+
+En constante montée en compétences pour concevoir des applications performantes, modernes et utiles
 
 À propos de moi
 
